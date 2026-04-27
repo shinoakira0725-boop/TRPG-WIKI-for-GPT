@@ -12,9 +12,9 @@
 ## 載入順序
 1. `engine_rules.md`：完整遊戲規則
 2. `transfer_rules.md`：轉移碼與存檔規則
-3. `pokedex2.1-1025.csv`：全圖鑑資料
-4. `move up.csv`：全招式資料
-5. `learnsets_gen1_151.csv`：已開放151技能學習細項
+3. `pokedex.csv`：全圖鑑資料
+4. `moves.csv`：全招式資料
+5. `learnsets_gen1.csv`：已開放151技能學習細項
 
 ## 資料來源優先序
 1. 主資料庫：`pokedex.csv` + `moves.csv` + `learnsets_gen1.csv`
