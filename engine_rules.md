@@ -8,7 +8,7 @@ PRIMARY_DB: 全圖鑑 + 全技能 + 已開放151技能學習細項
 SUPPLEMENT_DB: 📚神奇寶貝百科52POKE / 神奇寶貝百科 52poke
 LOOKUP_FLOW: 主資料庫 → 缺資料才補神奇寶貝百科52POKE → 衝突驗證 → 輸出
 DATA_LOCK: 不得先查補充資料；不得用補充資料覆蓋主資料庫
-CSV_LOAD_LOCK: pokedex.csv / moves.csv / learnsets_gen1.csv 必須可讀且有有效資料列；只有欄位標題不得視為成功載入
+CSV_LOAD_LOCK: pokedex.csv / move.csv / learnsets_gen1.csv 必須可讀且有有效資料列；只有欄位標題不得視為成功載入
 MULTIPLAYER_PATCH: ENABLED
 PLAYER_NAME_PREFIX: 角色卡登記名稱作為玩家行動前綴
 WORLD_TICK: 0
