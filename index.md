@@ -13,7 +13,7 @@
 1. `engine_rules.md`：完整遊戲規則
 2. `transfer_rules.md`：轉移碼與存檔規則
 3. `pokedex.csv`：全圖鑑資料
-4. `moves.csv`：全招式資料
+4. `move.csv`：全招式資料
 5. `learnsets_gen1.csv`：已開放151技能學習細項
 
 ## 資料來源優先序
