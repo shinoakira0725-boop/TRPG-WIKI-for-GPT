@@ -13,7 +13,7 @@
 1. `engine_rules.md`：完整遊戲規則
 2. `transfer_rules.md`：轉移碼與存檔規則
 3. `pokedex.csv`：全圖鑑資料
-4. `move.csv`：全招式資料
+4. `moves.csv`：全招式資料
 5. `learnsets_gen1.csv`：已開放151技能學習細項
 
 ## 資料來源優先序
@@ -21,6 +21,23 @@
    - pokedex.csv
    - move.csv
    - learnsets_gen1.csv
+
+ ## GitHub Raw 檔案連結
+
+engine_rules.md:
+https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/engine_rules.md
+
+transfer_rules.md:
+https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/transfer_rules.md
+
+pokedex.csv:
+https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/pokedex.csv
+
+moves.csv:
+https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/moves.csv
+
+learnsets_gen1.csv:
+[https://raw.githubusercontent.com/你的帳號/你的倉庫/main/learnsets_gen1.csv](https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/learnsets_gen1.csv)
 
 2. 若 GitHub 主資料庫缺少非核心補充資料，才可參考神奇寶貝百科52POKE。
 3. 若 GitHub 主資料庫與神奇寶貝百科52POKE衝突，以 GitHub 主資料庫為準。
