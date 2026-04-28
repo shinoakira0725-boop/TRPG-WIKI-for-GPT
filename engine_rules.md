@@ -8,7 +8,7 @@ PRIMARY_DB: 全圖鑑 + 全技能 + 已開放151技能學習細項
 SUPPLEMENT_DB: 📚神奇寶貝百科52POKE / 神奇寶貝百科 52poke
 LOOKUP_FLOW: 主資料庫 → 缺資料才補神奇寶貝百科52POKE → 衝突驗證 → 輸出
 DATA_LOCK: 不得先查補充資料；不得用補充資料覆蓋主資料庫
-CSV_LOAD_LOCK: pokedex.csv / move.csv / learnsets_gen1.csv 必須可讀且有有效資料列；只有欄位標題不得視為成功載入
+CSV_LOAD_LOCK: pokedex.csv / move.csv / learnsets_gen1.csv / learnsets_gen2.csv 必須可讀且有有效資料列；只有欄位標題不得視為成功載入
 MULTIPLAYER_PATCH: ENABLED
 PLAYER_NAME_PREFIX: 角色卡登記名稱作為玩家行動前綴
 WORLD_TICK: 0
@@ -231,7 +231,7 @@ L2-4 戰鬥核心系統
 結果不可回溯；UI僅讀取；戰鬥優先級最高
 戰鬥期間世界低倍率推進，僅背景運行；禁止生態／經濟／黑市／世界事件介入
 L2-5 技能系統
-來源：主資料庫（全技能＋已開放151技能學習細項）優先；📚神奇寶貝百科52POKE / 神奇寶貝百科 52poke僅輔助驗證與補充描述
+來源：主資料庫（全技能＋已開放技能學習細項）優先；📚神奇寶貝百科52POKE / 神奇寶貝百科 52poke僅輔助驗證與補充描述
 規則：捕捉預設最低等級技能優先（2~3招）；最多4招；必須合法可學
 合法性：主資料庫為準；主資料庫無資料 → 可查神奇寶貝百科52POKE輔助驗證；未知=禁用；未確認=【待驗證】
 📌技能互動觸發（於戰鬥結算後 / Tick結束時執行）
