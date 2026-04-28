@@ -496,7 +496,7 @@
 494.0,Entrainment,找夥伴,なかまづくり,Normal,一般,Status,變化,,用神奇的節奏跳舞。讓對手模仿自己的動作，變成和自己一樣的特性。,status,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,變成和自己一樣的特性,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_494,,494.0,
 495.0,After You,您先請,おさきにどうぞ,Normal,一般,Status,變化,,支援對手，讓對手緊接在自己之後行動。,status,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_495,,495.0,
 496.0,Round,輪唱,りんしょう,Normal,一般,Special,特殊,60.0,用歌聲攻擊對手。大家一起輪唱便可以接連使出，威力也會提高。,damage,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_496,,496.0,
-497.0,Echoed Voice,迴聲,エコーボイス,Normal,一般,Special,特殊,40.0,用回聲攻擊對手。每回合有寶可夢持續使用回聲時，招式的威力會提高。,damage,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,威力會提高,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_497,,497.0,
+497.0,Echoed Voice,回聲,エコーボイス,Normal,一般,Special,特殊,40.0,用回聲攻擊對手。每回合有寶可夢持續使用回聲時，招式的威力會提高。,damage,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,威力會提高,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_497,,497.0,
 498.0,Chip Away,逐步擊破,なしくずし,Normal,一般,Physical,物理,70.0,看準時機，確實地攻擊對手。可不顧對手的能力變化給予傷害。,damage,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,不顧對手的能力變化,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_498,,498.0,
 499.0,Clear Smog,清除之煙,クリアスモッグ,Poison,毒,Special,特殊,50.0,向對手投擲特殊的泥塊進行攻擊。能讓對手的能力變化回復到初始狀態。,damage,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,能力變化回復到初始狀態,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_499,,499.0,
 500.0,Stored Power,輔助力量,アシストパワー,Psychic,超能力,Special,特殊,20.0,用蓄積的力量攻擊對手。自己的能力提高越多，招式的威力越大。,damage,,,foe,,,,,,,,,,False,,0.0,False,0.0,,,,52poke,52poke 招式列表（第五世代）,已補齊至第五世代,待人工複核,5,normal,yes,可用,move_500,,500.0,
