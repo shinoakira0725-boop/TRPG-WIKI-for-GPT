@@ -39,7 +39,10 @@ moves.csv:
 https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/moves.csv
 
 learnsets_gen1.csv:
-[https://raw.githubusercontent.com/你的帳號/你的倉庫/main/learnsets_gen1.csv](https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/learnsets_gen1.csv)
+https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/learnsets_gen1.csv
+
+learnsets_gen2.csv:
+https://raw.githubusercontent.com/shinoakira0725-boop/TRPG-WIKI-for-GPT/refs/heads/main/learnsets_gen2.csv
 
 2. 若 GitHub 主資料庫缺少非核心補充資料，才可參考神奇寶貝百科52POKE。
 3. 若 GitHub 主資料庫與神奇寶貝百科52POKE衝突，以 GitHub 主資料庫為準。
@@ -49,8 +52,10 @@ learnsets_gen1.csv:
 載入資料庫時必須檢查：
 - `pokedex.csv` 必須含圖鑑編號、中文名、英文名、屬性等核心欄位，且必須有實際資料列。
 - `move.csv` 必須含招式名稱、屬性、分類、威力、命中、PP等核心欄位，且必須有實際資料列。
-- `learnsets_gen1.csv` 必須含寶可夢、招式、學習方式、等級/條件等核心欄位，且必須有實際資料列。
-- 若任一 CSV 只有欄位標題或資料列不足，不得宣稱成功載入。
+- `learnsets_gen1.csv`
+- `learnsets_gen2.csv`
+- 必須含寶可夢、招式、學習方式、等級/條件等核心欄位，且必須有實際資料列。
+- 若任一 CSV 只有欄位標題或資料列不足，才參考- 神奇寶貝百科52POKE，做暫時性資料補足。
 
 ## 多人模式索引
 多人模式規則位於：
@@ -73,6 +78,7 @@ learnsets_gen1.csv:
 - pokedex.csv: `<RAW_BASE_URL>pokedex.csv`
 - moves.csv: `<RAW_BASE_URL>moves.csv`
 - learnsets_gen1.csv: `<RAW_BASE_URL>learnsets_gen1.csv`
+- learnsets_gen2.csv: `<RAW_BASE_URL>learnsets_gen2.csv`
 
 ## 載入成功檢查
 必須確認以下檔案皆已讀取：
@@ -81,6 +87,7 @@ learnsets_gen1.csv:
 - pokedex.csv
 - moves.csv
 - learnsets_gen1.csv
+- learnsets_gen2.csv
 
 若缺任一項，回覆：
 「資料庫讀取失敗：缺少 ________」
