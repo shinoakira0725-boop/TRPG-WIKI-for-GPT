@@ -15,12 +15,14 @@
 3. `pokedex.csv`：全圖鑑資料
 4. `moves.csv`：全招式資料
 5. `learnsets_gen1.csv`：已開放151技能學習細項
+6. `learnsets_gen2.csv`：已開放251技能學習細項
 
-## 資料來源優先序
+## 資料來源
 1. GitHub 主資料庫：
    - pokedex.csv
    - move.csv
    - learnsets_gen1.csv
+   - learnsets_gen2.csv
 
  ## GitHub Raw 檔案連結
 
